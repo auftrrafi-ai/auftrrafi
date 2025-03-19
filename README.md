@@ -2,9 +2,7 @@
 
 Developer at Jartasea Roleplay.
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/username)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/link-server)  
-[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:email@domain.com)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://dsc.gg/e-tech)  [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:auftrrafi.ai@gmail.com)
 
 I'm currently developing server projects for GTA, specifically for SA-MP, FIVEM, and MTA. My main expertise is in backend development, but I can handle some front-end tasks when needed.
 
